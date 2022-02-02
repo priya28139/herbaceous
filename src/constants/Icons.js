@@ -1,5 +1,6 @@
 export const Icons = {
   back: require('../assets/icons/back.png'),
+  ellipsis: require('../assets/icons/ellipsis.png'),
   fertilizer: require('../assets/icons/fertilizer.png'),
   flower: require('../assets/icons/flower.png'),
   plant: require('../assets/icons/plant.png'),
